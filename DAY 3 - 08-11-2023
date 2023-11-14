@@ -1,0 +1,21 @@
+A URL or Uniform Resource Locator is a reference to a web page or other resource on the internet. It is a string of characters that identifies the location of the resource on a web server. The URL is made up of several parts, including the protocol, domain name, and path. The protocol is the set of rules that govern how data is exchanged between a web browser and a web server. The domain name is the unique name of the web server. The path is the location of the resource on the web server.
+
+HTTP stands for Hypertext Transfer Protocol, and HTTPS stands for Hypertext Transfer Protocol Secure. HTTP is the standard protocol used for communication between web browsers and web servers. HTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect the data being transmitted.
+Here are some of the key differences between HTTP and HTTPS:
+Security: HTTPS is more secure than HTTP because it uses encryption to protect the data being transmitted. This makes it more difficult for hackers to intercept and steal data.
+Trust: Websites that use HTTPS are often seen as more trustworthy than websites that use HTTP. This is because HTTPS is a sign that the website is taking security seriously.
+Search engine ranking: Search engines like Google give websites that use HTTPS a higher ranking in search results. This is because HTTPS is seen as a sign of a quality website.
+In general, HTTPS is the preferred protocol for all websites. However, there are some cases where HTTP may be acceptable, such as for non-sensitive websites or for websites that are only used by a small number of people.
+
+The DOM (Document Object Model) is a cross-platform and language-independent interface that allows programs and scripts to dynamically access and update the content, structure, and style of web pages.
+The DOM is a tree-like structure, with each node representing a different element in the web page. The root node of the DOM is the document node, which contains all of the other nodes in the document.
+The DOM is used by web browsers to render web pages, and by web developers to create interactive web applications.
+Here are some of the key benefits of using the DOM:
+It allows programs and scripts to access and update the content of web pages dynamically.
+It provides a consistent interface for accessing and updating the DOM, regardless of the programming language or platform being used.
+It makes it possible to create interactive web applications that can respond to user input.
+The DOM is a complex and powerful API, and there are many resources available online for learning more about it.
+
+Meta tags are snippets of text that describe a page's content. They help search engines and social media platforms understand and rank pages. Title, description, keywords, and Open Graph are common meta tags. Use the right meta tags to improve your page's visibility in search results.
+
+  
