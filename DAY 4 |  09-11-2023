@@ -1,0 +1,34 @@
+ASCII Character Set vs UTF-8 Character Set vs UTF-16 Character Set
+  
+ASCII, UTF-8, and UTF-16 are all character encodings. ASCII is the oldest and simplest, while UTF-8 and UTF-16 are more complex and can encode a wider range of characters.
+ASCII can only encode 128 characters, which is not enough to represent all the characters used in the world's languages. UTF-8 can encode up to 65,536 characters, and UTF-16 can encode up to 1,114,111 characters.
+UTF-8 is the most commonly used character encoding today. It is a variable-width encoding, which means that each character can take up one, two, three, or four bytes. UTF-16 is a fixed-width encoding, which means that each character always takes up two bytes.
+UTF-8 is more efficient than UTF-16 because it uses fewer bytes to encode characters. However, UTF-16 is more compatible with older systems because it is a fixed-width encoding.
+Here is a table that shows the differences between ASCII, UTF-8, and UTF-16:
+Character encoding
+
+
+What is Search Engine Optimization (SEO)?
+  
+Search Engine Optimization (SEO) is the process of improving the ranking of a website on search engines. The goal of SEO is to make a website more visible to potential visitors who are searching for information related to the website's content. There are a number of factors that can affect a website's ranking, including the quality and quantity of the website's content, the number of backlinks to the website, and the website's loading speed.
+Here are some of the ways to improve your website's SEO:
+Create high-quality content that is relevant to your target audience.
+Use relevant keywords throughout your website's content.
+Build backlinks to your website from high-quality websites.
+Optimise your website for speed.
+By following these tips, you can improve your website's ranking on search engines and attract more visitors.
+
+Difference between Framework and API?
+
+Framework
+A framework is a set of pre-built code that provides a structure for developing software applications. It can include things like libraries, tools, and templates. Frameworks can help developers save time and effort by providing a starting point for their projects.
+
+API
+An API, or application programming interface, is a set of rules that allow two pieces of software to communicate with each other. APIs can be used to share data, functionality, and other resources between applications.
+Here are some of the key differences between frameworks and APIs:
+Frameworks provide a structure for developing software applications, while APIs allow two pieces of software to communicate with each other.
+Frameworks are typically used by developers, while APIs can be used by developers and end users.
+Frameworks are typically more complex than APIs.
+Frameworks are typically more tightly coupled with the applications they are used to develop, while APIs are typically more loosely coupled.
+
+ 
